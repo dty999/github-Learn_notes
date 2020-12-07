@@ -49,6 +49,10 @@
 
   7. git log
 
-  8. git reflog
+  8. git reflog  
 
-  9. git reset --hard commit_id  
+  9. git reset --hard commit_id  回退到指定版本
+
+  10. git push origin main 向远端提交
+
+  11. 
