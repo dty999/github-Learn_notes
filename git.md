@@ -41,3 +41,4 @@
 
   3. git commit -m "注释"
 
+  4. git status
