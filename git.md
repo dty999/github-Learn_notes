@@ -55,4 +55,4 @@
 
   10. git push origin main 向远端提交
 
-  11. 
+  11. git clone  从远端克隆到本地
