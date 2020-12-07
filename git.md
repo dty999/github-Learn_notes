@@ -43,4 +43,12 @@
 
   4. git status
 
-  5. git diff 
+  5. git diff  
+
+  6. git reset --hard HEAD commit_id
+
+  7. git log
+
+  8. git reflog
+
+  9. git reset --hard commit_id  
