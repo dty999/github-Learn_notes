@@ -42,3 +42,5 @@
   3. git commit -m "注释"
 
   4. git status
+
+  5. git diff 
